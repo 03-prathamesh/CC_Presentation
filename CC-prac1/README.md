@@ -1,4 +1,4 @@
 
 ##  ARCHITECTURE OF THE KUBERNETES
-<img src="1.jpg" width="100" height="100" />
+<img src="1.jpg" width="1900" height="700" />
 
